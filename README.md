@@ -10,7 +10,7 @@ The goal of this project is to develop a system for automatically diagnosing com
 To get started with this project:
 
 ### Clone the Repository:
-```console git clone https://github.com/yourusername/eye-disease-diagnosis.git
+```console git clone https://github.com/amirmtaghizadegan/vision-transformer-eye-diagnosis.git
 cd eye-disease-diagnosis
 ```
 
@@ -35,8 +35,8 @@ The notebook includes:
 
 ## Future Work
 
-Enhance model accuracy with more data.
-Explore new architectures and techniques.
+- Enhance model accuracy with more data.
+- Explore new architectures and techniques.
 
 ## Contact
 

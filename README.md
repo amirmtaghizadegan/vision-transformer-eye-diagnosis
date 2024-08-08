@@ -29,9 +29,9 @@ jupyter notebook eye_disease_diagnosis.ipynb
 ## Notebook Overview
 
 The notebook includes:
-Data Loading and Preprocessing: Steps to load and prepare medical imaging data.
-Model Implementation: Code for training Vision Transformer and other deep learning models.
-Evaluation: Functions to assess model performance using various metrics.
+* Data Loading and Preprocessing: Steps to load and prepare medical imaging data.
+* Model Implementation: Code for training Vision Transformer and other deep learning models.
+* Evaluation: Functions to assess model performance using various metrics.
 
 ## Future Work
 

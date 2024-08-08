@@ -41,4 +41,3 @@ The notebook includes:
 ## Contact
 
 For questions or feedback, please contact me at amirm.taghizadegan@gmail.com.
-For questions or feedback, please contact me at your.email@example.com.

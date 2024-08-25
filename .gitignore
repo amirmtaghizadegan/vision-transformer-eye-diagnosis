@@ -1,0 +1,5 @@
+/ocular-disease-recognition-odir5k
+.DS_Store
+
+*.h5
+*.keras

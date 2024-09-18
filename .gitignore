@@ -1,5 +1,13 @@
 /ocular-disease-recognition-odir5k
+__pycache__
 .DS_Store
+.conda
+.vscode
 
 *.h5
 *.keras
+*.rar
+
+/models
+/images
+Vit_ocular_pytorch.ipynb
